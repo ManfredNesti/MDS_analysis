@@ -1,0 +1,2 @@
+model_checkpoint_path: "SCA_model"
+all_model_checkpoint_paths: "SCA_model"
