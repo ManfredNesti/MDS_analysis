@@ -13,4 +13,4 @@ The project, in collaboration with **Humanitas Research Hospital**, had the purp
 
 Moreover we used an innovative approach based on combination between Neural Networks and clustering in order to clusterize patients based on theit mortality risk and trying to predict the time of survival (Survival Clustering). 
 
-The code can be found in the different directories, taking into account tha data are missing for NDA agreement. The main results obtained can be found in final_presentation.pdf .
+The code can be found in the different directories, taking into account tha data are missing for NDA agreement. The main results obtained can be found in the final presentation.
